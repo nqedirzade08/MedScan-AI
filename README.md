@@ -30,7 +30,7 @@ MedScan AI is an AI-powered healthcare platform that assists users and healthcar
 | Model | Architecture | Accuracy | Dataset Size |
 |--------|--------------|----------|--------------|
 | Chest X-ray | EfficientNet-B0 | **76.0%** | 3,322 Images |
-| Bone Fracture | EfficientNet-B0 | **95.7.0%** | 10,581 Images |
+| Bone Fracture | EfficientNet-B0 | **95.7%** | 10,581 Images |
 | Brain MRI | EfficientNet-B0 | **96.1%** | 7,200 Images |
 | Skin Disease | EfficientNet-B2 | **71.2%** | 19,559 Images |
 | Scoliosis (X-ray) | EfficientNet-B0 | **98.3%** | 338 Images |
